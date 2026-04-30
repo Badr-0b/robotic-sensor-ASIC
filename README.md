@@ -1,12 +1,10 @@
 # robotic-sensor-ASIC
 
-Digital Robotic Sensor Processing Unit — designed in Verilog HDL,
+Digital Robotic Sensor Processing Unit designed in Verilog HDL,
 deployed on FPGA, and extended to physical ASIC layout.
 
-**Course:** CE/EE 270 — Introduction to Digital System Design  
-**Institution:** American University of the Middle East  
 **PDK:** OSU018 (180nm standard cell library)  
-**EDA Flow:** Yosys → Magic VLSI  
+**EDA Flow:** Yosys → Magic VLSI → [REDACTED]
 **FPGA Target:** Altera Cyclone V DE1-SoC (Quartus 13.1)
 
 ---
