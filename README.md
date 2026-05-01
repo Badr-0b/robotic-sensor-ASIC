@@ -4,10 +4,12 @@
 <img width="1147" height="705" alt="image" src="https://github.com/user-attachments/assets/807d6ec8-f305-4231-a9b8-b39cd3ebf7a5" />
 top.v
 
+---
+
 <img width="718" height="847" alt="image" src="https://github.com/user-attachments/assets/07ce3d7d-3fa7-45b7-95df-87d9b7829c51" />
 robotic_sensor.v
 
-
+---
 
 Digital Robotic Sensor Processing Unit designed in Verilog HDL,
 deployed on FPGA, and extended to physical ASIC layout.
